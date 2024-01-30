@@ -330,15 +330,15 @@
       "sha1": "4a314919520309aea00536f57d53fce338ab8f79"
     },
     {
-      "path": "src/assets/images/splash/android/drawable-hdpi/01.png",
+      "path": "src/assets/images/splash/android/drawable-hdpi/splash_01.png",
       "sha1": "934bf3ce19d666220d6c1a3690be0498415a0a4b"
     },
     {
-      "path": "src/assets/images/splash/ios/01@2x.png",
+      "path": "src/assets/images/splash/ios/splash_01_2x.png",
       "sha1": "cc09689a9bd278d750a999adb48852db5929c541"
     },
     {
-      "path": "src/assets/images/splash/ios/01@3x.png",
+      "path": "src/assets/images/splash/ios/splash_01_3x.png",
       "sha1": "a00c02786dd8139bb4326529586865e8be25b2d4"
     },
     {
