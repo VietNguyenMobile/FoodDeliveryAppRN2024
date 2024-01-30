@@ -1,0 +1,349 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/dummyData/hamburger.png",
+      "sha1": "4c30f1c93fb3546faf01662a1acb929f37171ba0"
+    },
+    {
+      "path": "src/assets/dummyData/hot_tacos.png",
+      "sha1": "dc0b9d0af68b380039e1f9a19ad3d1b41d99bae2"
+    },
+    {
+      "path": "src/assets/dummyData/veg_biryani.png",
+      "sha1": "f84014d254c9d71d6599bd07f86d086ecbd4400c"
+    },
+    {
+      "path": "src/assets/dummyData/wrap_sandwich.png",
+      "sha1": "0cebf391b291263ab1133bef395a45627750d41d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "048555c4d0c3a6022b480be4596b1c95d605d32b"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-BlackItalic.ttf",
+      "sha1": "14e5685922c5a5c5a7cdf23d5e84b78b521460aa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "b9b65c039a1f10a5cb5e0726c6e7e18e98a8e517"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-BoldItalic.ttf",
+      "sha1": "5b2f8f7c4bbd52b6a1948c9781b45b17d31430ea"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "66815173c5954271fac6b3ef51076f186577ad6f"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBoldItalic.ttf",
+      "sha1": "6e594e871a338027acb0774c5342c87fd2e3dac0"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "76ae3e4052ea2a21facd642ddd13cbaa80650fa6"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLightItalic.ttf",
+      "sha1": "26d368932f85fcdef67fd9eafb640fbc49c7fe3e"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Italic.ttf",
+      "sha1": "597eeb5ac2ce09c6f57ee14457a91be9e4a826cd"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "246982f0e815573f4915b4dd6f9861d56f147da2"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-LightItalic.ttf",
+      "sha1": "427dd3960115896d8553d40370642d0264bd2f8c"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "af7058373acbcf383dd114b8f9bbfb9faafd79eb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-MediumItalic.ttf",
+      "sha1": "5633a4f50fb7cf79131b957beff9114b0997bdac"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "01d319c533f62ea29f03b5df8adfd4d93d2d2a38"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "20b39c8b480c946b084d6aa09f12bf10b2ec5aa6"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBoldItalic.ttf",
+      "sha1": "45a72bb344bcb2975668fa89a410e24f05f68830"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "c5c36432a1d00d653bde8a47f4c99171f02362e8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ThinItalic.ttf",
+      "sha1": "0ae5e70e426adb3104852afb7a83a89bf3699260"
+    },
+    {
+      "path": "src/assets/icons/apple.png",
+      "sha1": "21e5cf962d5b7231b47d9db788630368873a1938"
+    },
+    {
+      "path": "src/assets/icons/back.png",
+      "sha1": "55f5df7aa25e3737e0ff441423a7451afcc6d5b7"
+    },
+    {
+      "path": "src/assets/icons/burger.png",
+      "sha1": "d16ab813caadc50f59f5894aecfb0f30c35b24b0"
+    },
+    {
+      "path": "src/assets/icons/call.png",
+      "sha1": "44a11b23d5b0dccae4dd5f83ff6120a56fa25af0"
+    },
+    {
+      "path": "src/assets/icons/calories.png",
+      "sha1": "8f63498598f6109735f91d1265d4c87cc774edcb"
+    },
+    {
+      "path": "src/assets/icons/cancel.png",
+      "sha1": "be5cfa6f1265ba2329fd6cfaf847d026d4bd64b6"
+    },
+    {
+      "path": "src/assets/icons/cart.png",
+      "sha1": "a330ab62892c6147691fefbdaabbfcdf6d6787e9"
+    },
+    {
+      "path": "src/assets/icons/check_circle.png",
+      "sha1": "2d300a5ffe3d67cf261ff5991d51c4328775a5d4"
+    },
+    {
+      "path": "src/assets/icons/check_off.png",
+      "sha1": "e5d2ed843a535de4da65389f2529c785eb10e7ee"
+    },
+    {
+      "path": "src/assets/icons/check_on.png",
+      "sha1": "94d65e7db8ef118fdfdd8de527b3c04e2e3324dc"
+    },
+    {
+      "path": "src/assets/icons/cherry.png",
+      "sha1": "b9f30dfc1d9962de8b6ee80e5d18d6273454b964"
+    },
+    {
+      "path": "src/assets/icons/clock.png",
+      "sha1": "4505775dce8e913fa74cc10e7029c863509e8e4b"
+    },
+    {
+      "path": "src/assets/icons/correct.png",
+      "sha1": "683d79ff2c2795a858893d4125376dbc14c03dfa"
+    },
+    {
+      "path": "src/assets/icons/coupon.png",
+      "sha1": "0c9036a11cf88727a4c1505a2f79d7e1229fd6dd"
+    },
+    {
+      "path": "src/assets/icons/cross.png",
+      "sha1": "63e4cd2fd39ec2add0f0c397864870f1bad6b3f1"
+    },
+    {
+      "path": "src/assets/icons/delete.png",
+      "sha1": "016f145408e21b7485121d12c3d5cfb8e95f6dfd"
+    },
+    {
+      "path": "src/assets/icons/discount.png",
+      "sha1": "d3142289a3935aa08a95653f3f0b07b8c7914317"
+    },
+    {
+      "path": "src/assets/icons/dollar.png",
+      "sha1": "922a1ccd847b9cd68d7288f549465a7e5bea4df8"
+    },
+    {
+      "path": "src/assets/icons/dotted_line.png",
+      "sha1": "865cbb60e24934ec342c658ec0ed75ae1b5d47a5"
+    },
+    {
+      "path": "src/assets/icons/down_arrow.png",
+      "sha1": "8f2bfd97806e3a2cf82677581393019b27a4728f"
+    },
+    {
+      "path": "src/assets/icons/eye.png",
+      "sha1": "b8616f4e0ce9583e98480234676733299a20d57f"
+    },
+    {
+      "path": "src/assets/icons/eye_close.png",
+      "sha1": "5c56c63940d8fe6b7130d0d738255625ef3d5a20"
+    },
+    {
+      "path": "src/assets/icons/favourite.png",
+      "sha1": "96200e42a52dbfbb9d97694b116e14a62f2d29f1"
+    },
+    {
+      "path": "src/assets/icons/fb.png",
+      "sha1": "645cb33f59bf72c7f3afbebe805e4ee648bf0df1"
+    },
+    {
+      "path": "src/assets/icons/filter.png",
+      "sha1": "256103f49fe70ad1dc599ad331d4b020b8d470c3"
+    },
+    {
+      "path": "src/assets/icons/focus.png",
+      "sha1": "5170e03dc47c8c889a066cd810fa4c4f7285ed59"
+    },
+    {
+      "path": "src/assets/icons/globe.png",
+      "sha1": "a07fc0d3ded3b6c6accfaf6862ca121fe7e1d478"
+    },
+    {
+      "path": "src/assets/icons/google.png",
+      "sha1": "f74b4d3b1362b537076243599ff199ddb29718b3"
+    },
+    {
+      "path": "src/assets/icons/help.png",
+      "sha1": "1e7c277ce09caa2652c7cb8a37845d4762d127a0"
+    },
+    {
+      "path": "src/assets/icons/home.png",
+      "sha1": "0a045a9970fda2f618ae630ce62c875c5a74d1af"
+    },
+    {
+      "path": "src/assets/icons/location.png",
+      "sha1": "4bfdb6541a39644fe774d784ffe5e19a440c4239"
+    },
+    {
+      "path": "src/assets/icons/location1.png",
+      "sha1": "dc3bf765f129650e47a4559fe5919a7a98c0aeab"
+    },
+    {
+      "path": "src/assets/icons/location_pin.png",
+      "sha1": "c556704194e2971f4a2f79e69884764ac0ecd1f1"
+    },
+    {
+      "path": "src/assets/icons/logout.png",
+      "sha1": "e6316e54e9867428c7334a1fd944742f891ac85f"
+    },
+    {
+      "path": "src/assets/icons/love.png",
+      "sha1": "882fce7166f4c8b942b45567e96e26f17fde30a0"
+    },
+    {
+      "path": "src/assets/icons/map.png",
+      "sha1": "d19a80828f08ad26b09835dbb01ae93196dda53f"
+    },
+    {
+      "path": "src/assets/icons/mastercard.png",
+      "sha1": "953ec85a60002274384850b81048d06ec32df66c"
+    },
+    {
+      "path": "src/assets/icons/menu.png",
+      "sha1": "7bcdadb81840810e2b5aa5eab9fdc03b48ceb71c"
+    },
+    {
+      "path": "src/assets/icons/minus.png",
+      "sha1": "747c3043c52b1d8c4b58f65c66992cb043fbdd12"
+    },
+    {
+      "path": "src/assets/icons/navigator.png",
+      "sha1": "a7a76721c2268b253b15ec21fa19a3dc1bade8cb"
+    },
+    {
+      "path": "src/assets/icons/navigator1.png",
+      "sha1": "ea1d17b4f91c571479f88d150b96fb45632c263d"
+    },
+    {
+      "path": "src/assets/icons/notification.png",
+      "sha1": "546c8ae4fa7800fc1d7731bbd53063424055f4f6"
+    },
+    {
+      "path": "src/assets/icons/paypal.png",
+      "sha1": "dc9ca8cee90c82cc188ed6b8f0db9b09b4196bc0"
+    },
+    {
+      "path": "src/assets/icons/plus.png",
+      "sha1": "f2a6dda11fcdcf96cf99ac34548647a92164a352"
+    },
+    {
+      "path": "src/assets/icons/profile.png",
+      "sha1": "bb184b632d06d95b1916cc4c237df6f526a04c5d"
+    },
+    {
+      "path": "src/assets/icons/rice.png",
+      "sha1": "f48bf1c351cd04977625cc17f8d1e7cb8c3ee876"
+    },
+    {
+      "path": "src/assets/icons/search.png",
+      "sha1": "c2d3331f9e7c599f49aaf0776cf68f6328d41d60"
+    },
+    {
+      "path": "src/assets/icons/setting.png",
+      "sha1": "b9fd9dd61a151106aa9a2952801dbdef57a2356a"
+    },
+    {
+      "path": "src/assets/icons/star.png",
+      "sha1": "808ec861eda8de3434cccc012a0274b08533366a"
+    },
+    {
+      "path": "src/assets/icons/visa.png",
+      "sha1": "420461e03320e86ccebc658ae59e4abab46f2e40"
+    },
+    {
+      "path": "src/assets/icons/wallet.png",
+      "sha1": "80ffb94994e10a5e03cd2048ef4a018ce064fb39"
+    },
+    {
+      "path": "src/assets/images/background_01.png",
+      "sha1": "25b48ed3226dec5e55c121f0996b2dea193f1070"
+    },
+    {
+      "path": "src/assets/images/background_02.png",
+      "sha1": "25c1bb3f215e7898b1f9258c547af889f5c2b76c"
+    },
+    {
+      "path": "src/assets/images/card.png",
+      "sha1": "4a37967a424676c778a3c6b7f73955502d5b5670"
+    },
+    {
+      "path": "src/assets/images/favourite_food.png",
+      "sha1": "81b3df7d9acdbb65dc9c1a16d0e14732768f272d"
+    },
+    {
+      "path": "src/assets/images/great_food.png",
+      "sha1": "32f525ab04982c81674cfc45fe7d1536087adf9f"
+    },
+    {
+      "path": "src/assets/images/hot_delivery.png",
+      "sha1": "bd1efaf5304bc237591f9178c95b97adac72fad9"
+    },
+    {
+      "path": "src/assets/images/logo_01.png",
+      "sha1": "ecb2f82b0bb6f6cd3025fdd70e1e6210c68ccb98"
+    },
+    {
+      "path": "src/assets/images/logo_02.png",
+      "sha1": "6b11022119a4eefd20ffd9b0217323bec6f3c8b5"
+    },
+    {
+      "path": "src/assets/images/profile1.jpg",
+      "sha1": "4a314919520309aea00536f57d53fce338ab8f79"
+    },
+    {
+      "path": "src/assets/images/splash/android/drawable-hdpi/01.png",
+      "sha1": "934bf3ce19d666220d6c1a3690be0498415a0a4b"
+    },
+    {
+      "path": "src/assets/images/splash/ios/01@2x.png",
+      "sha1": "cc09689a9bd278d750a999adb48852db5929c541"
+    },
+    {
+      "path": "src/assets/images/splash/ios/01@3x.png",
+      "sha1": "a00c02786dd8139bb4326529586865e8be25b2d4"
+    },
+    {
+      "path": "src/assets/images/success.png",
+      "sha1": "92678fca19de9c4fbc12c471aae1a6efa63013f3"
+    }
+  ]
+}
